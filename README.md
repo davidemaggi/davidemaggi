@@ -11,18 +11,13 @@
 ### <img src="https://media.giphy.com/media/06vC42sWYd3B9u99kv/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const davide = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+var I = new Davide();
+
+I.usedTo=["enjoy Videogames","play waterpolo","hack my way into things"];
+I.love=["learn new things", "to experiment", "be a mentor", "challenges"];
+I.workWith=[".net", "java", "javascript", "go", "sql", "nosql", "angular", "react", "node", "spring", "docker", "kubernetes", "kafka", "rabbitMQ", ...aLotOfThings];
+I.aspire="to inspire others and overcome the challenges every project will put in front of me."
+
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
