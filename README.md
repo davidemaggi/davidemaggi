@@ -1,6 +1,6 @@
 <h2> Hi, I'm Davide! <img src="https://media.giphy.com/media/bjE9JbNSckM0w/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/6FT3QE3AJMfwJDZBNr/giphy.gif" width="230">
-<p><em>Software Architect & Tech Lead @ <a href="http://www.accenture.com">Accenture | Industry X</a><img src="https://media.giphy.com/media/BdEA4JKv8sJoGNSHKX/giphy.gif" width="20"></br>Mentor @ <a href="https://coderdojo.com/it-IT">CoderDojo</a><img src="https://media.giphy.com/media/TeEx87fQ63RnaOygGA/giphy.gif" width="20"> 
+<p><em>System Architect & Tech Lead @ <a href="http://www.accenture.com">Accenture | Industry X</a><img src="https://media.giphy.com/media/BdEA4JKv8sJoGNSHKX/giphy.gif" width="20"></br>Mentor @ <a href="https://coderdojo.com/it-IT">CoderDojo</a><img src="https://media.giphy.com/media/TeEx87fQ63RnaOygGA/giphy.gif" width="20"> 
 </em></p>
 
 [![Twitter: davidemaggi](https://img.shields.io/twitter/follow/davidemaggi?style=social)](https://twitter.com/davidemaggi)
