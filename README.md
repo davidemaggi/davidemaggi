@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/avatar-glitch.svg" width="320" alt="Davide avatar glitch portrait">
+  <img src="./assets/glitch_effect.gif" width="320" alt="Davide glitch avatar" style="border-radius: 50%; border: 2px solid #30363d;">
 </p>
 
 <p align="center">
@@ -97,4 +97,3 @@ Weapon of Choice: "Whiteboard + markers + uncomfortable questions"
 
 If you want to party up on software architecture, technical leadership, mentoring, or emerging tech, reach out on [LinkedIn](https://www.linkedin.com/in/davidemaggi/) or [X/Twitter](https://twitter.com/davidemaggi).  
 No NPC replies. Human-to-human only.
-
