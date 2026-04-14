@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/glitch_effect.gif" width="320" alt="Davide glitch avatar" style="border-radius: 50%; border: 2px solid #30363d;">
+  <img src="./assets/glitch_effect_small.gif" width="320" alt="Davide glitch avatar" >
 </p>
 
 <p align="center">
